@@ -1,0 +1,2 @@
+C:/Users/pawar/OneDrive/Desktop/SafeNet2/SafeNet/android/app/.cxx/Debug/6u195r11/x86/CMakeFiles/edit_cache.dir
+C:/Users/pawar/OneDrive/Desktop/SafeNet2/SafeNet/android/app/.cxx/Debug/6u195r11/x86/CMakeFiles/rebuild_cache.dir

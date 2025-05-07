@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340059451347",
+    "project_id": "pushnotificatio-a561e",
+    "storage_bucket": "pushnotificatio-a561e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340059451347:android:b634212ec1835be9bac926",
+        "android_client_info": {
+          "package_name": "com.example.safenet_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaYLV8MtWG7Bamo2m-1NX8yHL7EYZw9I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

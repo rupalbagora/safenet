@@ -1,0 +1,12 @@
+// backend wale ki responsibilty hoti h api doc maintai krne ki
+
+user management API links : 
+
+insert user links
+url:http://localhost:3001/user/save
+method:post
+data : post methid se req ayegi toh body me bhejenge
+user, visitor , admin - sbhi ka data user module me hi hoga
+
+fields of form :
+name,email,password,mobile,address,city,gender
